@@ -1,0 +1,15 @@
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\bin\Debug\net8.0\Dieren.DAL.deps.json
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\bin\Debug\net8.0\Dieren.DAL.dll
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\bin\Debug\net8.0\Dieren.DAL.pdb
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.AssemblyInfoInputs.cache
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.AssemblyInfo.cs
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.sourcelink.json
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.dll
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\refint\Dieren.DAL.dll
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.pdb
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\ref\Dieren.DAL.dll
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\bin\Debug\net8.0\Dieren.DAL.runtimeconfig.json
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.csproj.AssemblyReference.cache
+C:\Users\ewoud\Documents\Flutter\Flutter-DierenApp\Dieren.API\Dieren.DAL\obj\Debug\net8.0\Dieren.DAL.genruntimeconfig.cache
